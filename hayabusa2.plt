@@ -1,4 +1,5 @@
-# https://www.hayabusa2.jaxa.jp/topics/20201021_orbit/
+# You need to get the below txt file before running this program.
+# https://www.hayabusa2.jaxa.jp/topics/20201021_orbit/hayabusa2_orbit_20201021.txt
 
 # -------------------- Setting ------------------- #
 reset
